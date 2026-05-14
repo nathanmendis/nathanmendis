@@ -7,7 +7,7 @@
 
 ### Backend-Focused Software Engineer • AI Systems • Scalable Architectures
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Systems+%F0%9F%A4%96;Scaling+Backend+Architectures+%E2%9A%A1;Turning+Coffee+Into+Production+Code+%E2%98%95;Django+%7C+React+%7C+LLMs+%7C+Cloud;Sometimes+I+even+fix+my+own+bugs..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Systems+%F0%9F%A4%96;Scaling+Backend+Architectures+%E2%9A%A1;Django+%7C+React+%7C+LLMs+%7C+Cloud;Turning+ideas+into+products+%F0%9F%9A%80" />
 
 </div>
 
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanmendis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanmendis&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=nathanmendis&theme=tokyonight&hide_border=true"/>
 
@@ -61,11 +61,11 @@
 <div align="center">
 
 <a href="https://github.com/nathanmendis/project-harvey-test">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&theme=tokyonight&hide_border=true"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/nathanmendis/book-a-vibe">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&theme=tokyonight&hide_border=true"/>
+<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </a>
 
 </div>
@@ -99,3 +99,4 @@
 <img src="https://komarev.com/ghpvc/?username=nathanmendis&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
+
