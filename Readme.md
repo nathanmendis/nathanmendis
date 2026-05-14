@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Nathan Mendis</h1>
 <h3 align="center">
 Backend-Focused Software Engineer • AI Systems • Full Stack Developer
@@ -101,4 +101,4 @@ NLP-powered engagement prediction system with sentiment and behavior analysis.
 <p align="center">
 Building scalable systems, experimenting with AI agents, and turning ideas into products 🚀
 </p>
-```
+
