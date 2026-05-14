@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🌍 Based in Pune, India
 - 🧠 Building AI-powered systems & scalable backend architectures
@@ -25,7 +25,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -56,23 +56,8 @@
 
 ---
 
-# ⭐ Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/nathanmendis/project-harvey-test">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
-
-<a href="https://github.com/nathanmendis/book-a-vibe">
-<img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</a>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
