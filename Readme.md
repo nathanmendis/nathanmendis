@@ -5,7 +5,7 @@
 
 # Hey 👋 I'm Nathan Mendis
 
-### Backend Engineer • AI Systems • Full Stack Developer
+### Backend-Focused Software Engineer • AI Systems • Scalable Architectures
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI+Systems+%F0%9F%A4%96;Scaling+Backend+Architectures+%E2%9A%A1;Turning+Coffee+Into+Production+Code+%E2%98%95;Django+%7C+React+%7C+LLMs+%7C+Cloud;Sometimes+I+even+fix+my+own+bugs..." />
 
@@ -21,7 +21,7 @@
 - ⚡ Learning **Spring Boot, Agentic AI & Distributed Systems**
 - 🤝 Open to collaborating on ambitious projects
 - ☕ Can survive on caffeine and Docker logs
-- ⚡ Fun fact: I still say “this should work” before breaking production
+- ⚡ Fun fact: I still say *"this should work"* before breaking production
 
 ---
 
@@ -37,6 +37,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </div>
 
@@ -48,13 +50,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nathanmendis&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmendis&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmendis&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=nathanmendis&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -65,11 +61,11 @@
 <div align="center">
 
 <a href="https://github.com/nathanmendis/project-harvey-test">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&theme=tokyonight&hide_border=true"/>
 </a>
 
 <a href="https://github.com/nathanmendis/book-a-vibe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
