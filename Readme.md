@@ -1,40 +1,104 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nathan Mendis
-======================================================================================================================================
+```md
+<h1 align="center">Hi 👋, I'm Nathan Mendis</h1>
+<h3 align="center">
+Backend-Focused Software Engineer • AI Systems • Full Stack Developer
+</h3>
 
-Web Devloper ,Full Stack AI engineer
-------------------------------------
-
-“I have been learning to code for 5 years and currently specialize in building scalable backend systems, AI-powered applications, and modern full-stack web platforms using Django, React, and cloud technologies."
-
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [nathanmendis.in](http://nathanmendis.in/)
-* ✉️  You can contact me at [nathanmendis17@gmail.com](mailto:nathanmendis17@gmail.com)
-* 🚀  I'm currently working on [Harvey](http://github.com/nathanmendis/project-harvey-test)
-* 🧠  I'm currently learning JAVA Spring, AgenticAI , GenAI ,Data Science
-* 👥  I'm looking to collaborate on Intresting Projects
-* 💬  Ask me about Im secrectly thor from endgame
-
-<p align="left">
-<a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" alt="Coffeescript" title="Coffeescript" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" alt="Digital Ocean" title="Digital Ocean" width="36" height="36" /></a>
+<p align="center">
+I’ve been coding for 5+ years and specialize in building scalable backend systems,
+AI-powered applications, and modern full-stack platforms using Django, React, and cloud technologies.
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/nathanmendis" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/nathan-mendis-a2318122a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+## 🚀 About Me
 
-<b>My GitHub Stats</b>
+- 🌍 Based in Pune, India
+- 🖥️ Portfolio: [nathanmendis.in](https://nathanmendis.in)
+- ✉️ Contact: **nathanmendis17@gmail.com**
+- 🚀 Currently building: [Harvey](https://github.com/nathanmendis/project-harvey-test)
+- 🧠 Learning: Spring Boot, Agentic AI, GenAI, Distributed Systems
+- 🤝 Open to collaborating on impactful AI & backend projects
+- ⚡ Fun fact: Secretly Thor from Endgame ⚡
 
-<a href="http://www.github.com/nathanmendis"><img src="https://github-readme-stats.vercel.app/api?username=nathanmendis&show_icons=true&hide=&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="nathanmendis's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/nathanmendis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmendis&stroke=ffffff&background=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🛠️ Tech Stack
 
-<a href="https://github.com/nathanmendis" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmendis&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-<b>Top Repositories</b>
+### Backend & AI
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<div width="100%" align="center"><a href="https://github.com/nathanmendis/project-harvey-test" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=project-harvey-test&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/nathanmendis/fake-news-detection" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=fake-news-detection&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
-<br /><br /><br /><br /><br />
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
-<div width="100%" align="center"><a href="https://github.com/nathanmendis/book-a-vibe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=book-a-vibe&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/nathanmendis/binancebot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nathanmendis&repo=binancebot&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/nathanmendis">
+<img src="https://skillicons.dev/icons?i=github" width="48"/>
+</a>
+
+<a href="https://linkedin.com/in/nathan-mendis-a2318122a">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img 
+src="https://github-readme-stats.vercel.app/api?username=nathanmendis&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=nathanmendis&theme=tokyonight&hide_border=true"
+/>
+</p>
+
+<p align="center">
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanmendis&layout=compact&theme=tokyonight&hide_border=true"
+/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 Harvey — AI HR Agent
+Hybrid LLM agent system using LangGraph + RAG for HR workflow automation.
+
+### 🔹 Book-A-Vibe
+Distributed RAG-based AI retrieval system with PGVector, Celery, and Docker.
+
+### 🔹 VibeeChat
+Secure encrypted chat backend using Django REST Framework + JWT authentication.
+
+### 🔹 WhatsApp Chat Analysis
+NLP-powered engagement prediction system with sentiment and behavior analysis.
+
+---
+
+<p align="center">
+Building scalable systems, experimenting with AI agents, and turning ideas into products 🚀
+</p>
+```
